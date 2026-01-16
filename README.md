@@ -98,8 +98,8 @@ Thus, the Python programming environment, execution modes, variables, data types
 
 
 
-Programs
-1.	# Comments
+#Programs
+1.	'#' Comments
 
 # This is a single-line comment
 # Program to demonstrate Python interface and comments
