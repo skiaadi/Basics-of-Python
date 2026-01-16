@@ -5,15 +5,15 @@ Aadi Havele
 
 Experiment–2
 
-Title
+# Title
 
 Python Environment, Data Types, Operators, and Basic Input/Output
 ________________________________________
-Aim
+# Aim
 
 To study the Python programming environment and interface, understand execution modes, variables, data types, operators, and basic input/output operations in Python.
 ________________________________________
-Objectives
+# Objectives
 
 •	To understand the Python programming environment and interface
 •	To study Python execution modes
@@ -22,7 +22,7 @@ Objectives
 •	To study different operators and expressions
 •	To understand basic input and output mechanisms
 ________________________________________
-Theory
+# Theory
 
 1. Python Environment and Interface
 The Python environment provides tools and interfaces to write, execute, and debug Python programs. Python programs can be executed using different interfaces such as:
@@ -92,7 +92,7 @@ Input is treated as a string by default and may require type conversion.
 print() function is used to display output.
 Formatted output can be achieved using commas or formatted strings.
 ________________________________________
-Conclusion
+# Conclusion
 
 Thus, the Python programming environment, execution modes, variables, data types, operators, and basic input/output operations were studied and understood.
 
